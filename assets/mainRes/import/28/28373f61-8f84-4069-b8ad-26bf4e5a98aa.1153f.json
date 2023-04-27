@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "92sf+Wv45J5pRn89FLQ1MK"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Special6",
+      "rect": [
+        22,
+        2,
+        105,
+        298
+      ],
+      "offset": [
+        -0.5,
+        -1
+      ],
+      "originalSize": [
+        150,
+        300
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

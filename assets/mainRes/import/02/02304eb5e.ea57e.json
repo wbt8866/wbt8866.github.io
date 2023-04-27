@@ -1,0 +1,293 @@
+[
+  1,
+  [
+    "34dPscKPZEf7ukqzSdn7k2",
+    "ccD1yKqXRNcokuu7q5N7BF",
+    "64uReMfz9BAqWNBHVeeh4f",
+    "e9eWxEmJVKMI38at4dpdhG",
+    "f2i4azeG9GGLdqg8G0004E",
+    "e1fCLdo25NArGMHgRdT2jt"
+  ],
+  [
+    "_textureSetter",
+    "fish3_move1",
+    "fish3_move2",
+    "fish3_move3",
+    "fish3_move4",
+    "fish3_move5"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "fish3_move2",
+          "rect": [
+            2,
+            2,
+            58,
+            50
+          ],
+          "offset": [
+            -1,
+            0
+          ],
+          "originalSize": [
+            60,
+            50
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "fish3.plist",
+          [
+            {},
+            "fish3_move1",
+            6,
+            0,
+            "fish3_move2",
+            6,
+            1,
+            "fish3_move3",
+            6,
+            2,
+            "fish3_move4",
+            6,
+            3,
+            "fish3_move5",
+            6,
+            4
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish3_move1",
+          "rect": [
+            62,
+            2,
+            58,
+            50
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            60,
+            50
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish3_move5",
+          "rect": [
+            50,
+            54,
+            58,
+            38
+          ],
+          "offset": [
+            0,
+            -1
+          ],
+          "originalSize": [
+            60,
+            50
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish3_move3",
+          "rect": [
+            2,
+            54,
+            58,
+            46
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            60,
+            50
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish3_move4",
+          "rect": [
+            90,
+            54,
+            58,
+            36
+          ],
+          "offset": [
+            1,
+            -1
+          ],
+          "originalSize": [
+            60,
+            50
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

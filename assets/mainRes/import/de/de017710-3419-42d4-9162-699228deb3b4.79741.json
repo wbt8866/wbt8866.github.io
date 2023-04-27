@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8eL59wytpKTbbVyMaQvlRP"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "game_common_btn_close_5",
+      "rect": [
+        1,
+        0,
+        110,
+        38
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        111,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

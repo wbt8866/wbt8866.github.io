@@ -1,0 +1,626 @@
+[
+  1,
+  [
+    "a1lrMhaERPCbLuOcycqaPJ",
+    "c49JXBHB9DGrzs7gBrPdki",
+    "b0KgySMjRJF72s64tav4PF",
+    "1c0c5a2B1AT5VxHnhAvhgR",
+    "cdoDY86CpCtr+OW3mtPGmh",
+    "14WfCQv/tF+5RiTE9XekR+",
+    "c2aAfxY9tMb6IYaptCuvSF",
+    "76KIACrEZPvJnj60Qh8F2C",
+    "d5RDSihDtFpJ1VHVM8aukQ",
+    "47jGbeWwtDaahO0SQ5oahL",
+    "46gsj/RtdAhItn8bV0nR+n",
+    "68z1S3IfdH1Jgy0Chd7x6z",
+    "58E2H+Bj9D1YMhH/WgArQc"
+  ],
+  [
+    "_textureSetter",
+    "fish24_move1",
+    "fish24_move10",
+    "fish24_move11",
+    "fish24_move12",
+    "fish24_move2",
+    "fish24_move3",
+    "fish24_move4",
+    "fish24_move5",
+    "fish24_move6",
+    "fish24_move7",
+    "fish24_move8",
+    "fish24_move9"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "fish24_move2",
+          "rect": [
+            231,
+            2,
+            69,
+            105
+          ],
+          "offset": [
+            -1,
+            5
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move11",
+          "rect": [
+            79,
+            2,
+            73,
+            107
+          ],
+          "offset": [
+            1,
+            2
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move7",
+          "rect": [
+            671,
+            2,
+            85,
+            97
+          ],
+          "offset": [
+            0,
+            -5
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move6",
+          "rect": [
+            758,
+            2,
+            81,
+            97
+          ],
+          "offset": [
+            0,
+            -4
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move9",
+          "rect": [
+            154,
+            2,
+            75,
+            105
+          ],
+          "offset": [
+            1,
+            -5
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move8",
+          "rect": [
+            513,
+            2,
+            79,
+            101
+          ],
+          "offset": [
+            0,
+            -6
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "fish24.plist",
+          [
+            {},
+            "fish24_move1",
+            6,
+            0,
+            "fish24_move10",
+            6,
+            1,
+            "fish24_move11",
+            6,
+            2,
+            "fish24_move12",
+            6,
+            3,
+            "fish24_move2",
+            6,
+            4,
+            "fish24_move3",
+            6,
+            5,
+            "fish24_move4",
+            6,
+            6,
+            "fish24_move5",
+            6,
+            7,
+            "fish24_move6",
+            6,
+            8,
+            "fish24_move7",
+            6,
+            9,
+            "fish24_move8",
+            6,
+            10,
+            "fish24_move9",
+            6,
+            11
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move4",
+          "rect": [
+            594,
+            2,
+            75,
+            99
+          ],
+          "offset": [
+            -1,
+            1
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move10",
+          "rect": [
+            2,
+            2,
+            75,
+            107
+          ],
+          "offset": [
+            1,
+            -4
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move3",
+          "rect": [
+            438,
+            2,
+            73,
+            103
+          ],
+          "offset": [
+            -1,
+            3
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move1",
+          "rect": [
+            302,
+            2,
+            67,
+            105
+          ],
+          "offset": [
+            -1,
+            6
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move12",
+          "rect": [
+            371,
+            2,
+            65,
+            105
+          ],
+          "offset": [
+            0,
+            6
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish24_move5",
+          "rect": [
+            841,
+            2,
+            79,
+            97
+          ],
+          "offset": [
+            -1,
+            -1
+          ],
+          "originalSize": [
+            85,
+            117
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

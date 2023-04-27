@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ca4xET9ZRK0L+/ZkvUIXdH"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "game_common_background_5",
+      "rect": [
+        0,
+        0,
+        998,
+        568
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        998,
+        568
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

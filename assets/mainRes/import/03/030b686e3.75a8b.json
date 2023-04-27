@@ -1,0 +1,340 @@
+[
+  1,
+  [
+    "62g5pFtjxO+rHDNV12qBwu",
+    "c2YlQBUoVFxKkC2Jcme0ci",
+    "1eXoA4WCVCk7k0ydBIs1aw",
+    "63aFo7JodNxaQ9No8rbNt0",
+    "2bpXpIh9xLDIKU2hdPM5zp",
+    "c4c8tSTXFPfozHVotEXebX",
+    "80z4DAo3FP+ZW2mjuadDwH"
+  ],
+  [
+    "_textureSetter",
+    "fish1_move1",
+    "fish1_move2",
+    "fish1_move3",
+    "fish1_move4",
+    "fish1_move5",
+    "fish1_move6"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "fish1_move2",
+          "rect": [
+            2,
+            58,
+            74,
+            25
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish1_move4",
+          "rect": [
+            2,
+            85,
+            74,
+            21
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish1_move3",
+          "rect": [
+            103,
+            2,
+            74,
+            23
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish1_move6",
+          "rect": [
+            2,
+            31,
+            74,
+            25
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "fish1.plist",
+          [
+            {},
+            "fish1_move1",
+            6,
+            0,
+            "fish1_move2",
+            6,
+            1,
+            "fish1_move3",
+            6,
+            2,
+            "fish1_move4",
+            6,
+            3,
+            "fish1_move5",
+            6,
+            4,
+            "fish1_move6",
+            6,
+            5
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish1_move1",
+          "rect": [
+            2,
+            2,
+            74,
+            27
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fish1_move5",
+          "rect": [
+            78,
+            2,
+            74,
+            23
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            74,
+            27
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]
